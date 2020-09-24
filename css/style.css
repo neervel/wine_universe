@@ -354,22 +354,6 @@ a {
 .owl-nav {
   background-color: #000000;
 }
-
-.owl-prev, .owl-next {
-  position: absolute;
-  top: 50%;
-  margin-top: -10px;
-  display: block;
-}
-
-.owl-prev:focus, .owl-prev:active, .owl-next:focus, .owl-next:active {
-  outline: none;
-}
-
-.owl-prev img, .owl-next img {
-  height: 50px;
-}
-
 .owl-stage-outer {
   margin: 0 auto;
   width: 860px;
