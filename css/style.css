@@ -115,6 +115,7 @@ a {
   position: fixed;
   right: 45px;
   bottom: 90px;
+  cursor: pointer;
   display: none;
   display: -webkit-box;
   display: -ms-flexbox;
